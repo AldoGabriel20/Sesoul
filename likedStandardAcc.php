@@ -79,6 +79,7 @@
 		  <li><a href="home.php">Home</a></li>
           <li class="menu-active"><a href="#">Who Liked You?</a></li>
           <li><a href="matched.php">Matched</a></li>
+	  <li><a href="logout.php">Logout</a></li>
           </ul>
       </nav><!-- #nav-menu-container -->
     </div>
